@@ -1,0 +1,3 @@
+C:/Users/emili/CLionProjects/cFourTwo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emili/CLionProjects/cFourTwo/cmake-build-debug/CMakeFiles/cFourTwo.dir
+C:/Users/emili/CLionProjects/cFourTwo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

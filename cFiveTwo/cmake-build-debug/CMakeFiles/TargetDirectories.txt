@@ -1,0 +1,3 @@
+C:/Users/emili/CLionProjects/cFiveTwo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emili/CLionProjects/cFiveTwo/cmake-build-debug/CMakeFiles/cFiveTwo.dir
+C:/Users/emili/CLionProjects/cFiveTwo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
